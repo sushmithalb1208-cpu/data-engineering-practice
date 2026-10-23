@@ -1,0 +1,2 @@
+-- Banking Transaction Pipeline
+-- Source table creation scripts
